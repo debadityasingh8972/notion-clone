@@ -11,12 +11,12 @@ export const metadata: Metadata = {
     icon: [
       {
         media: "(prefers-color-scheme: light)",
-        url: "/logo.svg",
+        url: "./logo.svg",
         href: "/logo.svg",
       },
       {
         media: "(prefers-color-scheme: dark)",
-        url: "/logo-dark.svg",
+        url: "./logo-dark.svg",
         href: "/logo-dark.svg",
       }
     ]
