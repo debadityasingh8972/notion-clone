@@ -1,5 +1,37 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Key Features:
+DONE
+- Landing page 🛬
+- Notion-style editor 📝 
+- Light and Dark mode 🌓
+
+YET-TO_ADD
+- Infinite children documents 🌲
+- Trash can & soft delete 🗑️
+- Authentication 🔐 
+- File upload
+- File deletion
+- File replacement
+- Icons for each document (changes in real-time) 🌠
+- Expandable sidebar ➡️🔀⬅️
+- Full mobile responsiveness 📱
+- Publish your note to the web 🌐
+- Fully collapsable sidebar ↕️
+- Real-time database  🔗 
+- Cover image of each document 🖼️
+- Recover deleted files 🔄📄
+
+### Prerequisites
+
+**Node version 18.x.x**
+
+
+### Install packages
+
+```shell
+npm i
+
 ## Getting Started
 
 First, run the development server:
