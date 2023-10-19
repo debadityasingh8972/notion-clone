@@ -16,15 +16,15 @@ export const Logo = () => {
                     height="40"
                     width="40"
                     alt="Logo"
-                    // className="dark:hidden"
+                    className="dark:hidden"
                 />
-                {/* <Image
+                <Image
                     src="/logo-dark.svg"
                     height="40"
                     width="40"
                     alt="Logo"
-                    // className="hidden dark:block"
-                /> */}
+                    className="hidden dark:block"
+                />
                 <p className={cn("font-semibold", font.className)}>
                     Jotion
                 </p>
