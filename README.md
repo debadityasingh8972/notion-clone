@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fullstack Notion Clone: 
+## Powered by Next.js 13, React, Convex, Tailwind
+This is a full-featured clone of the popular web app [Notion](https://www.notion.so/) built with Next [Next.js](https://nextjs.org/) bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 Key Features:
 DONE
@@ -6,7 +8,7 @@ DONE
 - Notion-style editor 📝 
 - Light and Dark mode 🌓
 
-YET-TO_ADD
+YET-TO-ADD
 - Infinite children documents 🌲
 - Trash can & soft delete 🗑️
 - Authentication 🔐 
