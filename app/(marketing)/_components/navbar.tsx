@@ -1,5 +1,9 @@
 "use client"
 
+import { useConvexAuth } from "convex/react";
+import { SignInButton, UserButton } from "@clerk/clerk-react";
+import Link from "next/link";
+
 import { useScrollTop } from "@/hooks/use-scroll-top"
 import { ModeToggle } from "@/components/mode-toggle";
 import { cn } from "@/lib/utils";
@@ -7,6 +11,7 @@ import { cn } from "@/lib/utils";
 import { Logo } from "./logo";
 
 export const Navbar = () => {
+    const { isAuthenticated, isLoading } = useConvexAuth();
     const scrolled = useScrollTop();
     return (
         <div className={cn(
