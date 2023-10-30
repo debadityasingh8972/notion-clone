@@ -7,11 +7,11 @@ DONE
 - Landing page 🛬
 - Notion-style editor 📝 
 - Light and Dark mode 🌓
+- Authentication 🔐
 
 YET-TO-ADD
 - Infinite children documents 🌲
 - Trash can & soft delete 🗑️
-- Authentication 🔐 
 - File upload
 - File deletion
 - File replacement
