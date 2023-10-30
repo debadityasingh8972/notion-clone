@@ -7,7 +7,7 @@ import { ConvexClientProvider } from '@/components/providers/convex-provider'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Motion',
+  title: 'Jotion',
   description: 'The Connected workspace for better and faster data connectivity | Powered by Next 13.5, TypeScript',
   icons: {
     icon: [
